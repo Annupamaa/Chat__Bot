@@ -51,5 +51,3 @@ npm run dev
 4. Response is returned and displayed in the chat window.
 
 ```
-
-

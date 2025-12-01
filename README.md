@@ -49,5 +49,3 @@ npm run dev
 2. Message is sent to the Node.js backend via API.
 3. Backend forwards the message to an LLM or Python AI service.
 4. Response is returned and displayed in the chat window.
-
-```
